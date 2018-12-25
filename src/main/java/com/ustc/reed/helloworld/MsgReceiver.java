@@ -1,4 +1,4 @@
-package com.ustc.reed;
+package com.ustc.reed.helloworld;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
